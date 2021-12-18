@@ -1,2 +1,8 @@
 *.o
+
+#VIM
 *.swp
+
+# clion files
+*.idea
+cmake-build*
